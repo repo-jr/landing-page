@@ -1,2 +1,2 @@
 # landing-page
-Creating a landing page as described by The Odin Project
+Creating a beginner landing page as described by The Odin Project.
